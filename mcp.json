@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "liqsonar": {
+      "type": "http",
+      "url": "https://liqsonar.com/mcp"
+    }
+  }
+}

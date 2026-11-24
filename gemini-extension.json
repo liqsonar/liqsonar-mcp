@@ -1,0 +1,10 @@
+{
+  "name": "liqsonar",
+  "version": "1.1.0",
+  "description": "Live crypto futures market data: order-flow signals, pumps and dumps, liquidation levels, order book walls and a manipulation-or-organic verdict.",
+  "mcpServers": {
+    "liqsonar": {
+      "httpUrl": "https://liqsonar.com/mcp"
+    }
+  }
+}
