@@ -1,0 +1,11 @@
+{
+  "name": "liqsonar",
+  "version": "1.1.0",
+  "description": "Live crypto futures market data for Claude: order-flow signals, pumps and dumps, liquidation levels, order book walls and a manipulation-or-organic verdict.",
+  "author": { "name": "LiqSonar", "email": "hello@liqsonar.com", "url": "https://liqsonar.com" },
+  "homepage": "https://liqsonar.com/api-docs#mcp",
+  "repository": "https://github.com/liqsonar/liqsonar-mcp",
+  "license": "MIT",
+  "keywords": ["crypto", "futures", "trading", "market-data", "liquidations", "order-flow", "mcp"],
+  "mcpServers": "./.mcp.json"
+}
